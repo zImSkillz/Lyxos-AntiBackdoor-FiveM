@@ -6,6 +6,11 @@ Lyxos AntiBackdoor is a FiveM AntiBackdoor, from server owner to server owner
 - Created by zImSkillz#4906
 - PAID
 
+### Price:
+- Weekly: 2€/ $
+- Monthly: ~~8€/ $~~ 7€/ $
+- Lifetime: 15€/ $
+
 ### Find us:
 - https://dsc.gg/lyxos
 - https://lyxos.de/
