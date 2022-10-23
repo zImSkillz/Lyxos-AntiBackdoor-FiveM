@@ -1,3 +1,4 @@
+<a href="//www.dmca.com/Protection/Status.aspx?ID=b5435ef8-c0db-4e84-b6d8-2281d7afe879" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca-badge-w100-5x1-08.png?ID=b5435ef8-c0db-4e84-b6d8-2281d7afe879"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
 # Lyxos AntiBackdoor
 Lyxos AntiBackdoor is a FiveM AntiBackdoor, from server owner to server owner
 
