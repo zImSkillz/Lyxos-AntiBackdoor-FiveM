@@ -23,6 +23,7 @@ Lyxos AntiBackdoor is a FiveM AntiBackdoor, from server owner to server owner
 ```
 Anti Backdoor
 Anti-Danger MySQL Commands (like: DROP TABLE `exampleDataBase`.`exampleTable` or: DROP DATABASE `exampleDatabase`)
+Anti Obfuscated Backdoor [NEW]
 ```
 
 ### Preview:
